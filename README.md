@@ -1,3 +1,4 @@
+![logo](https://github.com/GXNDHI/GXNDHI/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Animesh Gandhi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align = "right" width = "400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding">
