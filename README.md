@@ -12,4 +12,4 @@
 💲 𝗛𝗶𝗴𝗵𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀<br>
 <br>
 <br>
-![GXNDHI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GXNDHI&theme=vue-dark&hide_border=false)
+![GXNDHI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GXNDHI&theme=vue-dark&hide_border=false) <p></p>![GXNDHI's Stats](https://github-readme-stats.vercel.app/api?username=GXNDHI&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
