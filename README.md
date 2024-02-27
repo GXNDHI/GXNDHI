@@ -15,11 +15,24 @@
 💲 𝗛𝗶𝗴𝗵𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀<br>
 <br>
 <br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gandhi-2k1/) 
 🌐**Linkedin Profile** : [Click To Check Out My Profile](https://www.linkedin.com/in/gandhi-2k1) <br>
 📝**Linktree Profile** : [Click To Check Out My Notes And Resources](https://linktr.ee/gandhi_2k1) <br>
 🏅**Leetcode Profile** :[Click To Check What Have I Solved](https://leetcode.com/gandhi_2k1/) <br>
 <br>
 <br>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>
 ![GXNDHI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GXNDHI&theme=vue-dark&hide_border=false)
+
+
+
+
+
+
+
+
 
 
