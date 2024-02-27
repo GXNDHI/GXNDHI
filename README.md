@@ -3,7 +3,8 @@
 
 𝗛𝗲𝘆,👋 <br>
  𝗠𝘆𝘀𝗲𝗹𝗳 𝗔𝗻𝗶𝗺𝗲𝘀𝗵 𝗚𝗮𝗻𝗱𝗵𝗶 <br>
- 𝗜 𝗮𝗺 𝗳𝗿𝗼𝗺 𝗜𝗡𝗗𝗜𝗔, 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗽𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗺𝘆 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗢𝗳 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 (𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗔𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴).<br>
+ 𝗜 𝗮𝗺 𝗳𝗿𝗼𝗺 𝗜𝗡𝗗𝗜𝗔<br>
+ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗽𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗺𝘆 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗢𝗳 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 (𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗔𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴).<br>
  𝗜 𝗮𝗺 𝗮 <br>
 👨🏻‍💻 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 (𝗖++) <br>
 💻 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 (𝗙𝘂𝗹𝗹 𝗧𝗶𝗺𝗲)<br>
@@ -12,4 +13,10 @@
 💲 𝗛𝗶𝗴𝗵𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀<br>
 <br>
 <br>
-![GXNDHI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GXNDHI&theme=vue-dark&hide_border=false) <p></p>![GXNDHI's Stats](https://github-readme-stats.vercel.app/api?username=GXNDHI&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+<br>
+**Linkedin Profile** : [link](https://www.linkedin.com/in/gandhi-2k1)
+**Linktree Profile** : [link](https://linktr.ee/gandhi_2k1)
+**Leetcode Profile** :[link](https://leetcode.com/gandhi_2k1/)
+<br>
+<br>
+![GXNDHI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GXNDHI&theme=vue-dark&hide_border=false)
