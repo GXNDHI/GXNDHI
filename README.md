@@ -14,9 +14,9 @@
 <br>
 <br>
 <br>
-**Linkedin Profile** : [link](https://www.linkedin.com/in/gandhi-2k1)
-**Linktree Profile** : [link](https://linktr.ee/gandhi_2k1)
-**Leetcode Profile** :[link](https://leetcode.com/gandhi_2k1/)
+🌐**Linkedin Profile** : [link](https://www.linkedin.com/in/gandhi-2k1) <br>
+📝**Linktree Profile** : [link](https://linktr.ee/gandhi_2k1) <br>
+🏅**Leetcode Profile** :[link](https://leetcode.com/gandhi_2k1/) <br>
 <br>
 <br>
 ![GXNDHI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GXNDHI&theme=vue-dark&hide_border=false)
